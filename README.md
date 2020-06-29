@@ -1,3 +1,7 @@
+Use HeadPhone and say next to increase count by 1 and back for decrement by 1. 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
